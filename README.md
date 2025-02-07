@@ -1,5 +1,3 @@
-# YT_subtitles_transcription
-
 <div align="center">
     <h1>Simple youtube subtitles transcription backend</h1>
 </div>
