@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Simple youtube subtitles transcription backend</h1>
+    <h1>Simple youtube subtitles backend for transcriptions</h1>
 </div>
 
 ## :open_file_folder: What's in this repo
