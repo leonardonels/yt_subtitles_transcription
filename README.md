@@ -19,7 +19,7 @@ pip3 install fastapi uvicorn youtube-transcript-api
 ## :gear: How to build & Run
 ```commandline
 mkdir /opt/youtube_api && cd /opt/youtube_api
-git clone --depth=1 https://github.com/leonardonels/YT_subtitles_transcription.git
+git clone --depth=1 https://github.com/leonardonels/yt_subtitles_transcription.git
 cp youtube-api.service /etc/systemd/system/youtube-api.service
 
 systemctl daemon-reload
